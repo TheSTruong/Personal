@@ -173,7 +173,7 @@ section {
 }
 
 .bio {
-    margin: 15px 0;
+    margin: 12px 0;
 }
 
 .btn-box {
@@ -924,7 +924,7 @@ section:nth-child(odd) .animate.scroll,
     }
 
     .home-content .text-animate h3 {
-        font-size: 2rem;
+        font-size: 1.3rem;
     }
 }
 
