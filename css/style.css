@@ -103,7 +103,7 @@ section {
 }
 
 #personal {
-    margin-left: 350px;
+    margin-left: auto;
     max-width: 525px;
     max-height: 700px;
     border-radius: 10%;
