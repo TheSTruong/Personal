@@ -168,7 +168,12 @@ section {
 .home-content p {
     position: relative;
     font-size: 1.6rem;
-    margin: 2rem 0 4rem;
+    text-wrap: balance;
+    line-height: 2;
+}
+
+.bio {
+    margin: 15px 0;
 }
 
 .btn-box {
@@ -236,7 +241,7 @@ section {
     bottom: 4rem;
     width: 170px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .home-sci a {
@@ -916,6 +921,10 @@ section:nth-child(odd) .animate.scroll,
 
     .home-content h1 {
         font-size: 5rem;
+    }
+
+    .home-content .text-animate h3 {
+        font-size: 2rem;
     }
 }
 
